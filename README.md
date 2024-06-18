@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Synthia**
 
-- 🌱 I’m currently learning **MERN stack, Unity, JAVA**
+- 🌱 I’m currently learning **DATA ANALYTICS, DATA SCIENCE AND AI**
 
-- 📫 How to reach me **pulkit.jhod022@gmail.com**
+- 📫 How to reach me **jhodpulkit@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LVGNMzFRGMOKIW4xF1F9kbg5wQCXRr_k/view?usp=drive_link](https://drive.google.com/file/d/1LVGNMzFRGMOKIW4xF1F9kbg5wQCXRr_k/view?usp=drive_link)
 
